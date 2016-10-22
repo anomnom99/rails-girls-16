@@ -14,8 +14,7 @@
  *= require_self
  */
  body {
-   padding-top: 160px;
-   background: red;
+   padding-top: 60px;
  }
 
  table,td,th {
